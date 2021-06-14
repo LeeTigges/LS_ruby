@@ -1,0 +1,2 @@
+movie_hash = ['jaws', 1973],['carrie', 1974],['star wars', 1976]].to_h
+puts movie_hash
